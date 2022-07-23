@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Lumi_Note/static/css/main.588f9514.css",
+    "main.js": "/Lumi_Note/static/js/main.1e33791b.js",
+    "static/js/787.b8fa26a9.chunk.js": "/Lumi_Note/static/js/787.b8fa26a9.chunk.js",
+    "static/media/logo.svg": "/Lumi_Note/static/media/logo.490b9f3f89b7d4dea57efcdfdf8871a3.svg",
+    "index.html": "/Lumi_Note/index.html",
+    "main.588f9514.css.map": "/Lumi_Note/static/css/main.588f9514.css.map",
+    "main.1e33791b.js.map": "/Lumi_Note/static/js/main.1e33791b.js.map",
+    "787.b8fa26a9.chunk.js.map": "/Lumi_Note/static/js/787.b8fa26a9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.588f9514.css",
+    "static/js/main.1e33791b.js"
+  ]
+}
