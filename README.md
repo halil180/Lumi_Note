@@ -1,3 +1,7 @@
+
+Welcome to my todo app
+https://halil180.github.io/Lumi_Note/
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
